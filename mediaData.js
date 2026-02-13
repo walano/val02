@@ -5,115 +5,115 @@
 
 window.mediaData = [
   {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.14.08 AM (1).jpeg",
+    "url": "media/0 (1).jpeg",
     "type": "image"
   },
   {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.14.08 AM (2).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.14.08 AM (3).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.14.08 AM (4).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.14.08 AM (5).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.14.08 AM.jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.15.26 AM (1).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.15.26 AM (2).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.15.26 AM (3).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.15.26 AM (4).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.15.26 AM (5).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.15.26 AM (6).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.15.26 AM.jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 12.15.35 AM.jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 2.51.33 AM.jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 2.51.34 AM (1).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 2.51.34 AM (2).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 2.51.34 AM (3).jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 2.51.34 AM.jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Image 2026-02-13 at 2.51.36 AM.jpeg",
-    "type": "image"
-  },
-  {
-    "url": "media/WhatsApp Video 2026-02-13 at 12.14.09 AM.mp4",
+    "url": "media/0 (1).mp4",
     "type": "video"
   },
   {
-    "url": "media/WhatsApp Video 2026-02-13 at 2.51.36 AM.mp4",
+    "url": "media/0 (10).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (11).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (12).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (13).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (14).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (15).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (16).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (17).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (18).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (19).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (2).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (2).mp4",
     "type": "video"
   },
   {
-    "url": "media/WhatsApp Video 2026-02-13 at 2.51.38 AM.mp4",
+    "url": "media/0 (20).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (3).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (3).mp4",
     "type": "video"
   },
   {
-    "url": "media/WhatsApp Video 2026-02-13 at 2.51.39 AM.mp4",
+    "url": "media/0 (4).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (4).mp4",
     "type": "video"
   },
   {
-    "url": "media/WhatsApp Video 2026-02-13 at 2.51.41 AM (1).mp4",
+    "url": "media/0 (5).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (5).mp4",
     "type": "video"
   },
   {
-    "url": "media/WhatsApp Video 2026-02-13 at 2.51.41 AM (2).mp4",
+    "url": "media/0 (6).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (6).mp4",
     "type": "video"
   },
   {
-    "url": "media/WhatsApp Video 2026-02-13 at 2.51.41 AM.mp4",
+    "url": "media/0 (7).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (7).mp4",
     "type": "video"
   },
   {
-    "url": "media/WhatsApp Video 2026-02-13 at 2.51.42 AM.mp4",
+    "url": "media/0 (8).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/0 (8).mp4",
     "type": "video"
+  },
+  {
+    "url": "media/0 (9).jpeg",
+    "type": "image"
   }
 ];
