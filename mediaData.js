@@ -61,7 +61,59 @@ window.mediaData = [
     "type": "image"
   },
   {
+    "url": "media/WhatsApp Image 2026-02-13 at 2.51.33 AM.jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/WhatsApp Image 2026-02-13 at 2.51.34 AM (1).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/WhatsApp Image 2026-02-13 at 2.51.34 AM (2).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/WhatsApp Image 2026-02-13 at 2.51.34 AM (3).jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/WhatsApp Image 2026-02-13 at 2.51.34 AM.jpeg",
+    "type": "image"
+  },
+  {
+    "url": "media/WhatsApp Image 2026-02-13 at 2.51.36 AM.jpeg",
+    "type": "image"
+  },
+  {
     "url": "media/WhatsApp Video 2026-02-13 at 12.14.09 AM.mp4",
+    "type": "video"
+  },
+  {
+    "url": "media/WhatsApp Video 2026-02-13 at 2.51.36 AM.mp4",
+    "type": "video"
+  },
+  {
+    "url": "media/WhatsApp Video 2026-02-13 at 2.51.38 AM.mp4",
+    "type": "video"
+  },
+  {
+    "url": "media/WhatsApp Video 2026-02-13 at 2.51.39 AM.mp4",
+    "type": "video"
+  },
+  {
+    "url": "media/WhatsApp Video 2026-02-13 at 2.51.41 AM (1).mp4",
+    "type": "video"
+  },
+  {
+    "url": "media/WhatsApp Video 2026-02-13 at 2.51.41 AM (2).mp4",
+    "type": "video"
+  },
+  {
+    "url": "media/WhatsApp Video 2026-02-13 at 2.51.41 AM.mp4",
+    "type": "video"
+  },
+  {
+    "url": "media/WhatsApp Video 2026-02-13 at 2.51.42 AM.mp4",
     "type": "video"
   }
 ];
